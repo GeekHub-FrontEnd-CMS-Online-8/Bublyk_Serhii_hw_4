@@ -52,9 +52,9 @@
 .mn{
     width: 25px;
     height: 19px;
-    position: absolute;
-    top: 120px;
-    right: 250px;
+    float:right ;
+    margin-top:33px;
+    margin-right: 430px;
 }
 .main {
     grid-area: main;
